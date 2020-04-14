@@ -1,0 +1,19 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/smartblog",
+    "prod_uri": "mysql+pymysql://root:@localhost/smartblog",
+    "fb_url": "https://facebook.com/smartblogbyabhay",
+    "tw_url": "https://twitter.com/smartblogbyabhay",
+    "gh_url": "https://github.com/smartblogbyabhay",
+    "blog_name": "Smart Blogger",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "abhay",
+    "admin_pass": "abhay",
+    "upload_location": "C:\\Users\\admin\\PycharmProjects\\FirstProg\\static\\img"
+  }
+
+}
